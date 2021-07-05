@@ -1,6 +1,6 @@
 # Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/issues)
 [![GitHub forks](https://img.shields.io/github/forks/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes?style=social)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes?style=social)](https://github.com/sagnik20/Python-Bot-for-Whatsapp-AutoReply-for-New-Year-Wishes/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 I made this python bot for my Youtube Video on my channel [Learn Overflow](https://www.youtube.com/learnoverflow) .
@@ -15,7 +15,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### Sagnik Chattopadhyaya
 
-Microsoft Student Partner, Student, Working for betterment of all, Competitive Coder, YouTuber
+[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/4447), Student, Working for betterment of all, Competitive Coder, YouTuber
 
 <a href="https://twitter.com/sagnik_20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/sagnik-chattopadhyaya/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg?raw=true" width="60"></a>
